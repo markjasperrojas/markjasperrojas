@@ -1,15 +1,10 @@
  <h2 align="center">Hi! My name is Mark Jasper 😃</h2>
 
-I'm a recent Computer Science graduate and an aspiring web developer. My main goal is to master the fundamentals of programming and build or contribute to meaningful projects that can help both me and other people. I'm a big fan of [The Odin Project](https://www.theodinproject.com/) because I've learned so much from its curriculum, which has provided me with a high quality coding education, even beyond what I learned in school.
+I'm a web developer and a big fan of [The Odin Project](https://www.theodinproject.com/), which has provided me with a high-quality coding education that has helped me learn even beyond what I was taught in school. Currently, I'm exploring computer science concepts and responsive web design to strengthen my fundamentals.
 
-I enjoy learning programming every day and building projects from scratch, especially when working on projects that help me test my knowledge, improve my skills. Although I sometimes use AI to explain concepts and speed up my learning, I also have a few vibe coded projects. Self-learning isn't easy, sometimes I get confused or struggle with certain concepts, but I believe that's part of the journey. I'm committed to strengthening my fundamentals and becoming a software engineer someday. 
+I enjoy programming and building projects from scratch, especially those that challenge me to apply what I've learned, test my knowledge, and improve my skills. Self-learning isn't always easy, and I sometimes struggle to understand certain concepts, but I believe those challenges are part of the learning journey. I'm committed to continuous learning, strengthening my foundations, and growing into a skilled software engineer.
 
 <br>
 
 ### Technologies & Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,jest,git,github,linux,ubuntu&theme=dark&perline=5)](https://skillicons.dev)
-
-<br>
-
-### Opportunities 🤝
-I’m open to internship, junior-level, and freelance opportunities. I’d be happy to gain real world experience, adapt to a professional environment, and contribute to a company.
